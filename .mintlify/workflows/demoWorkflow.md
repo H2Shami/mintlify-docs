@@ -1,7 +1,7 @@
 ---
 name: "Broken link checker"
 on:
-  cron: "0 9 * * 1"
+    cron: "0 9 * * 1"
 automerge: false
 ---
 
