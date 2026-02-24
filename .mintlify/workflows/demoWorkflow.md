@@ -1,6 +1,8 @@
 ---
-name: "Star wars page added"
+name: "Broken link checker"
 on:
-  cron: "0 15 * * 3"
+  cron: "0 9 * * 1"
+automerge: false
 ---
-Add a page about star wars to my documentation site
+
+Add a page about star wars
