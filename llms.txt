@@ -1,0 +1,34 @@
+# Mint Starter Kit
+
+> A starter template for building documentation with Mintlify.
+
+## Getting Started
+
+- [Introduction](https://localtestorg.mintlify.app/index)
+- [Quickstart](https://localtestorg.mintlify.app/quickstart)
+- [Development](https://localtestorg.mintlify.app/development)
+
+## Customization
+
+- [Settings](https://localtestorg.mintlify.app/essentials/settings)
+- [Navigation](https://localtestorg.mintlify.app/essentials/navigation)
+
+## Writing Content
+
+- [Markdown Syntax](https://localtestorg.mintlify.app/essentials/markdown)
+- [Code Blocks](https://localtestorg.mintlify.app/essentials/code)
+- [Images and Embeds](https://localtestorg.mintlify.app/essentials/images)
+- [Reusable Snippets](https://localtestorg.mintlify.app/essentials/reusable-snippets)
+
+## AI Tools
+
+- [Cursor](https://localtestorg.mintlify.app/ai-tools/cursor)
+- [Claude Code](https://localtestorg.mintlify.app/ai-tools/claude-code)
+- [Windsurf](https://localtestorg.mintlify.app/ai-tools/windsurf)
+
+## API Reference
+
+- [API Introduction](https://localtestorg.mintlify.app/api-reference/introduction)
+- [Get Endpoint](https://localtestorg.mintlify.app/api-reference/endpoint/get)
+- [Create Endpoint](https://localtestorg.mintlify.app/api-reference/endpoint/create)
+- [Delete Endpoint](https://localtestorg.mintlify.app/api-reference/endpoint/delete)
