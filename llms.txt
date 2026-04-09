@@ -1,6 +1,6 @@
 # Mint Starter Kit
 
-> A starter template for building documentation with Mintlify.
+> A starter template for building documentation with Mintlify!
 
 ## Getting Started
 
