@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "maple",
   "name": "Mint Starter Kit",
   "colors": {
     "primary": "#16A34A",
@@ -120,6 +120,23 @@
       "x": "https://x.com/mintlify",
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
+    }
+  },
+  "redirects": [
+    {
+      "source": "/dup",
+      "destination": "/a"
+    }
+  ],
+  "seo": {
+    "indexing": "navigable"
+  },
+  "styling": {
+    "codeblocks": "system"
+  },
+  "integrations": {
+    "intercom": {
+      "appId": "test-app-id-123"
     }
   }
 }
