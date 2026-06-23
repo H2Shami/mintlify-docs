@@ -128,5 +128,11 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "markdown": {
+    "instructions": [
+      "Always use the `acme` CLI.",
+      "Prefer `acme deploy` over manual git pushes."
+    ]
   }
 }
